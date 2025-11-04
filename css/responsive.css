@@ -1,0 +1,32 @@
+@media screen and (max-width:768px) {
+    .sec-3 {
+        text-align: center;
+    }
+
+    .sec-5 {
+        margin: 20px 0px;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .sec-3 {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .sec-5 {
+        height: 300px;
+        margin: 10px 0px;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .logo-p {
+        font-size: 2.5em;
+    }
+      .sec-5 {
+        height: 250px;
+        margin: 0px 0px;
+    }
+}
